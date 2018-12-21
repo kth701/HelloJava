@@ -10,5 +10,6 @@ public class Main {
         System.out.println("6. add line hotfix");
         System.out.println("7. add line master commiit");
         System.out.println("8. add line commit");
+        System.out.println("9. add line commit");
     }
 }
