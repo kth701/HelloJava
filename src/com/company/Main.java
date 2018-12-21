@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("project Diva: 2. hotfix commit");
         System.out.println("5. add line master commit");
+        System.out.println("6. add line hotfix");
     }
 }
