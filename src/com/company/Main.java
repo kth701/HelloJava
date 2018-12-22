@@ -12,5 +12,6 @@ public class Main {
         System.out.println("8. add line commit");
         System.out.println("9. add line commit");
         System.out.println("10. add line commit");
+        System.out.println("Hello! Local repository");// 로컬 저장소(다른 사용자 수정한 내용을 로컬에서 다시 수정)
     }
 }
