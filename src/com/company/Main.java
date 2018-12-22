@@ -12,5 +12,6 @@ public class Main {
         System.out.println("8. add line commit");
         System.out.println("9. add line commit");
         System.out.println("10. add line commit");
+	System.out.println("Hello! GitHub"); // 원결저장소에서 line 추가
     }
 }
