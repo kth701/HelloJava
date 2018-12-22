@@ -13,5 +13,6 @@ public class Main {
         System.out.println("9. add line commit");
         System.out.println("10. add line commit ????");
         System.out.println("10. add line commit!!!!");
+	System.out.println("Hello! git pull");
     }
 }
